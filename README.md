@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi, I'm Karen Daniela 👋
 
-<!--
-**kdmarinb/kdmarinb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | Python · SQL · Power BI **
 
-Here are some ideas to get you started:
+Physics student at Universidad Nacional de Colombia with a strong 
+background in data analysis, statistical modeling, and process 
+automation. I turn operational data into actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Python (pandas, numpy) · SQL
+- **Databases:** BigQuery · Oracle
+- **Visualization:** Power BI · Excel
+- **Automation:** n8n · Google Apps Script
+- **Others:** Machine Learning · Jupyter Notebooks
+
+---
+
+### 📚 Currently learning
+- Advanced Python for Data Science (BeTek · Makaia)
+- Git & GitHub best practices
+
+---
+
+### 🌐 Languages
+- Spanish (Native)
+- English (B2+)
+- Portuguese (B2)
+
+---
+
+### 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kdmarinb-blue)](https://linkedin.com/in/kdmarinb)
+[![Email](https://img.shields.io/badge/Email-kdmarinb@gmail.com-red)](mailto:kdmarinb@gmail.com)
