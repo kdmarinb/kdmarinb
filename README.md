@@ -1,10 +1,11 @@
 ## Hi, I'm Karen Daniela 👋
 
- ### Data Analyst | Python · SQL · Power BI 
+### Data Analyst | Python · SQL · Power BI 
 
-Physics student at Universidad Nacional de Colombia with a strong 
-background in data analysis, statistical modeling, and process 
-automation. I turn operational data into actionable insights.
+Systems Analysis & Development Technologist and Physics student 
+at Universidad Nacional de Colombia with a strong background in 
+data analysis, statistical modeling, and process automation. 
+I turn operational data into actionable insights.
 
 ---
 
