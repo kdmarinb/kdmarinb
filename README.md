@@ -2,10 +2,7 @@
 
 ### Data Analyst | Python · SQL · Power BI 
 
-Systems Analysis & Development Technologist and Physics student 
-at Universidad Nacional de Colombia with a strong background in 
-data analysis, statistical modeling, and process automation. 
-I turn operational data into actionable insights.
+Systems Analysis & Development Technologist, currently pursuing degrees in Systems Engineering (CUN) and Physics (Universidad Nacional de Colombia). With a strong background in data analysis, statistical modeling, and process automation, I turn operational data into actionable insights.
 
 ---
 
